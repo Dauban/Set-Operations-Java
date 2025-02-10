@@ -1,5 +1,4 @@
-//Assignment:4
-//Author:Or Adar, ID:305468506
+//Author:Or Adar
 package set;
 
 /**
